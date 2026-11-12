@@ -1,0 +1,24 @@
+{
+  "aluno": "Lucas Queroz",
+  "data_utc": "2026-11-12T12:33:14.232493+00:00",
+  "respostas": {
+    "Q1": "Uma amostra com suas medidas",
+    "Q2": "Classificação binária",
+    "Q3": "30",
+    "Q4": "Para estimar o desempenho em dados não vistos",
+    "Q5": "Proporção total de previsões corretas",
+    "Q6": "Para observar erros e acertos por classe",
+    "Q7": "Seleção automática de algoritmo e hiperparâmetros",
+    "Q8": "O conjunto de treino, com validação interna",
+    "Q9": "Não, orçamento e ambiente podem influenciar",
+    "Q10": "O AutoML dispõe de cerca de 45 segundos para a busca",
+    "Q11": "Convencional",
+    "Q12": "Não; é preciso considerar incerteza, contexto e validação adicional",
+    "Q13": "Para garantir condições de avaliação comparáveis",
+    "Q14": "Não; seriam necessárias validações e avaliações clínicas apropriadas",
+    "Q15": "Descrever dados, separação, métricas, limitações e método"
+  },
+  "acuracia_convencional": 0.9824561403508771,
+  "acuracia_automl": 0.9473684210526315,
+  "algoritmo_automl": "extra_tree"
+}
